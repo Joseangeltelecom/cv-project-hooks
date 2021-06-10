@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cv-project-hooks/static/css/main.d16f749c.chunk.css",
+    "main.js": "/cv-project-hooks/static/js/main.ebf394b8.chunk.js",
+    "main.js.map": "/cv-project-hooks/static/js/main.ebf394b8.chunk.js.map",
+    "runtime-main.js": "/cv-project-hooks/static/js/runtime-main.5d4fb4ab.js",
+    "runtime-main.js.map": "/cv-project-hooks/static/js/runtime-main.5d4fb4ab.js.map",
+    "static/js/2.e80c7302.chunk.js": "/cv-project-hooks/static/js/2.e80c7302.chunk.js",
+    "static/js/2.e80c7302.chunk.js.map": "/cv-project-hooks/static/js/2.e80c7302.chunk.js.map",
+    "static/js/3.b887ee98.chunk.js": "/cv-project-hooks/static/js/3.b887ee98.chunk.js",
+    "static/js/3.b887ee98.chunk.js.map": "/cv-project-hooks/static/js/3.b887ee98.chunk.js.map",
+    "index.html": "/cv-project-hooks/index.html",
+    "static/css/main.d16f749c.chunk.css.map": "/cv-project-hooks/static/css/main.d16f749c.chunk.css.map",
+    "static/js/2.e80c7302.chunk.js.LICENSE.txt": "/cv-project-hooks/static/js/2.e80c7302.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4fb4ab.js",
+    "static/js/2.e80c7302.chunk.js",
+    "static/css/main.d16f749c.chunk.css",
+    "static/js/main.ebf394b8.chunk.js"
+  ]
+}
